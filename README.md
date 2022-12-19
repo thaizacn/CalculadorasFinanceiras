@@ -1,7 +1,11 @@
-# 🚀 Projeto Sonhe
+# 🚀 Calculadoras Financeiras
 
 ## ✨ Começando
-Projeto Sonhe é a desburocratização do acesso a serviços de saúde financeira para trabalhadores informais, cujo objetivo é apoiar micro empreendimentos para que, junto conosco, prosperem cada vez mais. 
+O projeto conta com duas calculadoras: 
+- Métodos 50-30-20;
+- Precificação de produtos.
+
+A ideia surgiu para atender o "Santander Sonhe" desenvolvido durante a segunda edição do The Code Force, Hackathon do Banco Santander. O Santander Sonhe é a desburocratização do acesso a serviços de saúde financeira para trabalhadores informais, cujo objetivo é apoiar micro empreendimentos para que, junto conosco, prosperem cada vez mais. Essa API compõem a parte de Backend do projeto.
 
 ## ⚙️ Sobre a API 
 Desenvolvemos dois endpoints pra lá de importantes para compor nossa jornada, são eles:
